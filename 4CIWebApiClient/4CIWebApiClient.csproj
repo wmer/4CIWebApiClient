@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\4CIWeb.Data\4CIWeb.Data\4CIWeb.Data.csproj" />
+    <ProjectReference Include="..\..\ManyHelpers\ManyHelpers\ManyHelpers.csproj" />
+  </ItemGroup>
+
 </Project>

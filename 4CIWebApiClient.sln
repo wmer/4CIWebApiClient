@@ -5,6 +5,10 @@ VisualStudioVersion = 17.1.31903.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4CIWebApiClient", "4CIWebApiClient\4CIWebApiClient.csproj", "{6D078908-51E2-4FE1-9672-31DDF5FA4383}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManyHelpers", "..\ManyHelpers\ManyHelpers\ManyHelpers.csproj", "{81243B36-AE66-463B-804B-DDEC015C0913}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4CIWeb.Data", "..\4CIWeb.Data\4CIWeb.Data\4CIWeb.Data.csproj", "{0E1D8B4A-C8FC-4B9C-A184-7F36C73983FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{6D078908-51E2-4FE1-9672-31DDF5FA4383}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D078908-51E2-4FE1-9672-31DDF5FA4383}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D078908-51E2-4FE1-9672-31DDF5FA4383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81243B36-AE66-463B-804B-DDEC015C0913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81243B36-AE66-463B-804B-DDEC015C0913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81243B36-AE66-463B-804B-DDEC015C0913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81243B36-AE66-463B-804B-DDEC015C0913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E1D8B4A-C8FC-4B9C-A184-7F36C73983FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1D8B4A-C8FC-4B9C-A184-7F36C73983FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1D8B4A-C8FC-4B9C-A184-7F36C73983FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1D8B4A-C8FC-4B9C-A184-7F36C73983FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
